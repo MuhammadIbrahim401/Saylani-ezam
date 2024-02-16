@@ -1,19 +1,19 @@
-/* * {
+* {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
     font-family: Urbanist, system-ui, Avenir, Helvetica, sans-serif, Arial;
     color-scheme: light dark;
     text-align: center;
-} */
+}
 
-/* 
-  .navbar {
+.navbar {
     max-width: 140rem;
     padding: 4.2rem 2.4rem;
     display: flex;
     justify-content: space-between;
-  }
+}
+/* 
   
   .left-side> {
       background-image: url("img/NISSAN-GTR-LOGO.jpg");
@@ -43,7 +43,7 @@ img {
     height: 80% !important;
 }
 
-/* .card-img-top {
+.card-img-top {
     width: 50% !important;
     height: 50% !important;
     margin-left: 100px !important;
@@ -52,27 +52,37 @@ img {
     -moz-border-radius: 25px !important;
     -ms-border-radius: 25px !important;
     -o-border-radius: 25px !important;
-} */
+}
 
-/* body {
+body {
     margin: 0;
     padding: 0;
     font-family: Arial, sans-serif;
     background-color: #f4f4f4;
-} */
+}
 
-/* .footer {
+.footer {
+    margin-top: 5px;
     background-color: #333;
     color: #fff;
     padding: 20px;
     text-align: center;
     bottom: 0;
     width: 100%;
-} */
+}
 
-/* .social-icons a {
+.social-icons a {
     color: #fff;
     margin: 0 10px;
     text-decoration: none;
     font-size: 20px;
-} */
+}
+
+.custom-card{
+    margin-top: 5px !important;
+    /* padding: 0px !important; */
+}
+.col{
+
+    border-radius: 50px !important;
+}
