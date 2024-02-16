@@ -13,29 +13,9 @@
     display: flex;
     justify-content: space-between;
 }
-/* 
-  
-  .left-side> {
-      background-image: url("img/NISSAN-GTR-LOGO.jpg");
-  }
-  
-  ul {
-    display: flex;
-    gap: 3.2rem;
-  }
-  
-  */
-/* .container, .container-fluid, .container-lg, .container-md, .container-sm, .container-xl, .container-xxl {
-      margin-left: % !important;
-  }
-  
-  .custom-navbar {
-    text-align: right !important;
-  } */
 
 .right-side>img {
     height: 50px !important;
-    /* width: 200% !important; */
 }
 
 img {
